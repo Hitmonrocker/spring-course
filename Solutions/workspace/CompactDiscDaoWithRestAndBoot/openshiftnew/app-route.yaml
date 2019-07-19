@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: cds
 spec:
-  host: cds.appsrvdev.conygre.com
+  host: vinny.dev2.conygre.com
   port:
     targetPort: '8080'
   to:
